@@ -20,7 +20,10 @@ toc: true
 ## ⚙ Parts
 
 ![v0 CutieCat Parts](/images/CutieCat/v0_CutieCat-Parts.png)
+
 <!-- Note: all images that I couldn't figure out what was happening  have alt "..." so that they can be found quicker. -->
+<!-- Note: There weren't any links to mods that I was able to find on devkitty.io -->
+
 <!-- ![](/images/CutieCat/v0_CutieCat-Package.png) -->
 
 | Part | Description |
@@ -203,7 +206,7 @@ For more tips, check out our soldering guide. -->
 
 1. Plug in your CutieCat with USB Type C
 2. With your board fully assembled, it should power on the QA Firmware!
-3. Check out our [Firmware Guide]() to load new firmware.
+3. Check out our [Firmware Guide](https://devkitty.io/docs/get-started/firmware/) to load new firmware.
 
 {{< alert icon="🛈" context="danger" text="If your board doesn't work, check our troubleshooting guide." />}}
 
