@@ -19,8 +19,8 @@ toc: true
 <!-- markdownlint-disable MD033 -->
 ## ⚙ Parts
 
-![](/images/CutieCat/v0_CutieCat-Parts.png)
-
+![v0 CutieCat Parts](/images/CutieCat/v0_CutieCat-Parts.png)
+<!-- Note: all images that I couldn't figure out what was happening  have alt "..." so that they can be found quicker. -->
 <!-- ![](/images/CutieCat/v0_CutieCat-Package.png) -->
 
 | Part | Description |
@@ -43,15 +43,15 @@ For more tips, check out our soldering guide. -->
 <div id="Step-1" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-1.1.png" class="d-block w-100" alt="">
+      <img src="/images/CutieCat/Soldering-Guide/Step-1.1.png" class="d-block w-100" alt="Melt a tack of solder onto the top right pad">
       <div class="carousel-caption d-none d-md-block">
-          <p>a. Melt a tack of solder onto the top right pad.</p>
+          <p>Melt a tack of solder onto the top right pad.</p>
       </div>
     </div>
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-1.2.png" class="d-block w-100" alt="...">
+      <img src="/images/CutieCat/Soldering-Guide/Step-1.2.png" class="d-block w-100" alt="Reheat the blob and place the microcontroller!">
       <div class="carousel-caption d-none d-md-block">
-          <p>b. Reheat the blob and place the microcontroller!</p>
+          <p>Reheat the blob and place the microcontroller!</p>
       </div>
     </div>
   </div>
@@ -77,13 +77,13 @@ For more tips, check out our soldering guide. -->
 <div id="Step-2" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-2.1.png" class="d-block w-100" alt="">
+      <img src="/images/CutieCat/Soldering-Guide/Step-2.1.png" class="d-block w-100" alt="Text over image of devkitty board "Soldering iron vertical to board. Stay clear of Switch Connector">
       <!-- <div class="carousel-caption d-none d-md-block">
           <p>a</p>
       </div> -->
     </div>
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-2.2.png" class="d-block w-100" alt="...">
+      <img src="/images/CutieCat/Soldering-Guide/Step-2.2.png" class="d-block w-100" alt="Soldering pins">
       <div class="carousel-caption d-none d-md-block">
           <p>Solder the rest of the pins!</p>
       </div>
@@ -108,6 +108,7 @@ For more tips, check out our soldering guide. -->
 
 ### 3. Solder the Expansion Header
 
+<!-- I don't know what is happening in these pictures so I can't help -->
 <div id="Step-3" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -134,11 +135,12 @@ For more tips, check out our soldering guide. -->
 
 ### 4. Prep + Solder the Screen
 
+<!-- I don't know what is happening in these pictures so I can't help -->
 {{< alert icon="⚠️" context="warning" text="Press down on center of screen - the edges are really fragile!" />}}
 <div id="Step-4" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-4.1.png" class="d-block w-100" alt="">
+      <img src="/images/CutieCat/Soldering-Guide/Step-4.1.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item active">
       <img src="/images/CutieCat/Soldering-Guide/Step-4.2.png" class="d-block w-100" alt="...">
@@ -165,11 +167,12 @@ For more tips, check out our soldering guide. -->
 
 ### 5. Antenna & Case Assembly
 
+<!-- I don't know what is happening in these pictures so I can't help -->
 {{< alert icon="🛈" context="warning" text="Read our long-range mod guide before adding the external antenna!!" />}}
 <div id="Step-5" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-5.1.png" class="d-block w-100" alt="">
+      <img src="/images/CutieCat/Soldering-Guide/Step-5.1.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item active">
       <img src="/images/CutieCat/Soldering-Guide/Step-5.2.png" class="d-block w-100" alt="...">
@@ -196,7 +199,7 @@ For more tips, check out our soldering guide. -->
 
 ### 6. Quality Assurance
 
-![](/images/update.JPG)
+![Updated photo coming soon!](/images/update.JPG)
 
 - Plug in your CutieCat with USB Type C
 - With your board fully assembled, it should power on the QA Firmware!
@@ -206,7 +209,7 @@ For more tips, check out our soldering guide. -->
 
 ## 🔧 Additional Mods
 
-![](/images/update.JPG)
+![Updated photo coming soon!](/images/update.JPG)
 
 Check out our [mods]() section for more, including adding the long-range antenna!
 
