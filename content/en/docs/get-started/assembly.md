@@ -66,10 +66,10 @@ For more tips, check out our soldering guide. -->
 </div>
 </br>
 
-- Start by melting a small "tack" of solder to one of the CutieCat microcontroller pads.  This will help us place the ESP32 before committing.
-- Center the ESP32 on the microcontroller footprint.
-- Reheat the tack of solder until it melts, while pressing down the ESP32.  Don't worry about how the first joint looks!
-- Let the solder cool!  If you need to readjust the microcontroller, simply reheat the joint.
+1. Start by melting a small "tack" of solder to one of the CutieCat microcontroller pads.  This will help us place the ESP32 before committing.
+2. Center the ESP32 on the microcontroller footprint.
+3. Reheat the tack of solder until it melts, while pressing down the ESP32.  Don't worry about how the first joint looks!
+4. Let the solder cool!  If you need to readjust the microcontroller, simply reheat the joint.
 
 ### 2. Solder the ESP32
 
@@ -100,9 +100,9 @@ For more tips, check out our soldering guide. -->
 </div>
 </br>
 
-- a. Solder each remaining pad on the microcontroller!
-- b. Ensure the connection is solid by bridging the ESP32 pad & PCB pads
-- c. Avoid burning the switch connector! *
+1. Solder each remaining pad on the microcontroller!
+2. Ensure the connection is solid by bridging the ESP32 pad & PCB pads
+3. Avoid burning the switch connector! *
 
 **Switch connector will be moved in update v0.1 design*
 
@@ -129,9 +129,9 @@ For more tips, check out our soldering guide. -->
 </div>
 </br>
 
-- a. Insert the 6-Pin Header on the Side
-- b. Lay the board & header flush on a flat surface
-- c. Solder the joints!
+1. Insert the 6-Pin Header on the Side
+2. Lay the board & header flush on a flat surface
+3. Solder the joints!
 
 ### 4. Prep + Solder the Screen
 
@@ -160,9 +160,9 @@ For more tips, check out our soldering guide. -->
 </div>
 </br>
 
-- a. Add double-sided foam tape at the bottom of the screen footprint (not pictured)
-- b. Center & press the screen in place.
-- c. Solder the screen joints on the back.
+1. Add double-sided foam tape at the bottom of the screen footprint (not pictured)
+2. Center & press the screen in place.
+3. Solder the screen joints on the back.
 <!-- note: correct screen askew -->
 
 ### 5. Antenna & Case Assembly
@@ -175,10 +175,10 @@ For more tips, check out our soldering guide. -->
       <img src="/images/CutieCat/Soldering-Guide/Step-5.1.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-5.2.png" class="d-block w-100" alt="...">
+      <img src="/images/CutieCat/Soldering-Guide/Step-5.2.png" class="d-block w-100" alt="Insert the D-pad into the Top Enclosure">
     </div>
     <div class="carousel-item active">
-      <img src="/images/CutieCat/Soldering-Guide/Step-5.3.png" class="d-block w-100" alt="...">
+      <img src="/images/CutieCat/Soldering-Guide/Step-5.3.png" class="d-block w-100" alt="Snap-on Back Enclosure.">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#Step-5" data-bs-slide="prev">
@@ -192,18 +192,18 @@ For more tips, check out our soldering guide. -->
 </div>
 </br>
 
-- a. Snap the patch antenna onto the ESP32 u.fl connector
-- b. Insert the D-Pad into the Top Enclosure
-- c. Place the CutieCat in face-down
-- d. Snap-on the Back Enclosure!
+1. Snap the patch antenna onto the ESP32 u.fl connector
+2. Insert the D-Pad into the Top Enclosure
+3. Place the CutieCat in face-down
+4. Snap-on the Back Enclosure!
 
 ### 6. Quality Assurance
 
 ![Updated photo coming soon!](/images/update.JPG)
 
-- Plug in your CutieCat with USB Type C
-- With your board fully assembled, it should power on the QA Firmware!
-- Check out our [Firmware Guide]() to load new firmware.
+1. Plug in your CutieCat with USB Type C
+2. With your board fully assembled, it should power on the QA Firmware!
+3. Check out our [Firmware Guide]() to load new firmware.
 
 {{< alert icon="🛈" context="danger" text="If your board doesn't work, check our troubleshooting guide." />}}
 
