@@ -16,8 +16,9 @@ toc: true
 {{< alert icon="⚠️" context="warning" text="Assembly video coming by Sep 10 2024." />}}
 
 <!-- #update# -->
-
+<!-- markdownlint-disable MD033 -->
 ## ⚙ Parts
+
 ![](/images/CutieCat/v0_CutieCat-Parts.png)
 
 <!-- ![](/images/CutieCat/v0_CutieCat-Package.png) -->
@@ -38,6 +39,7 @@ For more tips, check out our soldering guide. -->
 ## 🗒 Steps
 
 ### 1. Place the ESP32
+
 <div id="Step-1" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -65,11 +67,12 @@ For more tips, check out our soldering guide. -->
 </br>
 
 - Start by melting a small "tack" of solder to one of the CutieCat microcontroller pads.  This will help us place the ESP32 before committing.
-- Center the ESP32 on the microcontroller footprint.  
+- Center the ESP32 on the microcontroller footprint.
 - Reheat the tack of solder until it melts, while pressing down the ESP32.  Don't worry about how the first joint looks!
 - Let the solder cool!  If you need to readjust the microcontroller, simply reheat the joint.
 
 ### 2. Solder the ESP32
+
 {{< alert icon="⚠️" context="danger" text="Be extra careful not to burn the switch connector, or bridge neighboring pins." />}}
 <div id="Step-2" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -104,6 +107,7 @@ For more tips, check out our soldering guide. -->
 **Switch connector will be moved in update v0.1 design*
 
 ### 3. Solder the Expansion Header
+
 <div id="Step-3" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -128,8 +132,8 @@ For more tips, check out our soldering guide. -->
 - b. Lay the board & header flush on a flat surface
 - c. Solder the joints!
 
-
 ### 4. Prep + Solder the Screen
+
 {{< alert icon="⚠️" context="warning" text="Press down on center of screen - the edges are really fragile!" />}}
 <div id="Step-4" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -160,6 +164,7 @@ For more tips, check out our soldering guide. -->
 <!-- note: correct screen askew -->
 
 ### 5. Antenna & Case Assembly
+
 {{< alert icon="🛈" context="warning" text="Read our long-range mod guide before adding the external antenna!!" />}}
 <div id="Step-5" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -183,13 +188,14 @@ For more tips, check out our soldering guide. -->
   </button>
 </div>
 </br>
- 
+
 - a. Snap the patch antenna onto the ESP32 u.fl connector
 - b. Insert the D-Pad into the Top Enclosure
 - c. Place the CutieCat in face-down
 - d. Snap-on the Back Enclosure!
 
 ### 6. Quality Assurance
+
 ![](/images/update.JPG)
 
 - Plug in your CutieCat with USB Type C
@@ -199,6 +205,7 @@ For more tips, check out our soldering guide. -->
 {{< alert icon="🛈" context="danger" text="If your board doesn't work, check our troubleshooting guide." />}}
 
 ## 🔧 Additional Mods
+
 ![](/images/update.JPG)
 
 Check out our [mods]() section for more, including adding the long-range antenna!
